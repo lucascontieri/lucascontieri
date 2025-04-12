@@ -15,7 +15,6 @@
    <img  src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
     <img  src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
    <img  src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
-   <img src="https://user-images.githubusercontent.com/85856457/200485239-6d28d10b-7332-4866-9c95-56cd6890b369.PNG" width="150px" align="right" borderRadius="100px" />  
 </div>
 
 
