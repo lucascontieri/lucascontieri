@@ -4,7 +4,7 @@
 
 ##
 📌Dev back-end <br>
-📌Cursando o 4º semestre de Análise e Desenvolveimento de sistemas na Fatec Guarulhos. <br>
+📌Cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos. <br>
 📌Formado em Desenvolvimento de Sistemas pela Etec Eudécio Luiz Vicente. <br>
 📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!
 
