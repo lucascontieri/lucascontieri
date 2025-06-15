@@ -101,25 +101,15 @@
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascontieri&theme=tokyonight" alt="GitHub Streak">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascontieri&theme=tokyonight" alt="Top Langs">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Additional GitHub Stats">
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 35%; max-width: 200px; height: 200px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascontieri&theme=tokyonight" alt="GitHub Streak" style="width: 35%; max-width: 200px; height: 206px;">
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascontieri&theme=tokyonight" alt="Top Langs" style="width: 30%; max-width: 200px; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Additional GitHub Stats" style="width: 30%; max-width: 200px; height: 200px;">
+  </div>
 </div>
 
 
