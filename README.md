@@ -104,7 +104,7 @@
 <div align="center">
    <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucascontieri}/count.svg" /></p> 
-   <br><br><br><br><br><br><br>
+   <br><br>
 
 <div align="center">
 <h3> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h3>
