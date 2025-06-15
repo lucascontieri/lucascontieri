@@ -48,7 +48,7 @@
 
 <!-- 🧠 Linguagens de Programação -->
 <div align="center">
-  <h3>🧠 Linguagens de Programação 
+  <h3>🧠 Programming Languages 
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
   </h3>
   <table>
@@ -80,7 +80,7 @@
 
 <!-- 🧰 IDEs e Ferramentas -->
 <div align="center">
-  <h3>🧰 IDEs e Ferramentas 
+  <h3>🧰 IDEs and Tools
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
   </h3>
   <table>
