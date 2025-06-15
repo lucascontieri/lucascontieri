@@ -137,6 +137,15 @@
 <a href = 'https://github.com/lucascontieri/lucascontieri/'> <img width = '30' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/lucas_contieri/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"alt="_._.adam._" width="30" /></a>&nbsp;&nbsp;&nbsp;
 </div>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake.svg">
+</picture>
+
+
     
 </div>
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
