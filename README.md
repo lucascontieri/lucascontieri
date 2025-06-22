@@ -30,7 +30,7 @@
 ## 👋 Hello, I'm Contieri!
 📖 I have a degree in Systems Development Integrated to High School from Etec Eudécio Luiz Vicente.
 
-📓 I'm currently studying for my 4th semester in Systems Analysis and Development at FATEC Guarulhos, where the following technologies are widely covered: **Java**, **C#**, **SQL**, **Mobile Applications**, **MySQL**, **XAMPP**, **Linux Ubuntu**, **Agile Methodologies (Scrum)**, **Kanban**.
+📓 I'm currently studying for my 5th semester in Systems Analysis and Development at FATEC Guarulhos, where the following technologies are widely covered: **Java**, **C#**, **SQL**, **Mobile Applications**, **MySQL**, **XAMPP**, **Linux Ubuntu**, **Agile Methodologies (Scrum)**, **Kanban**.
 
 📌 I'm currently expanding my Front-End knowledge of **HTML**, **CSS** and **JavaScript**. As for the Back-End, I'm dedicating myself to the languages **PHP**, **Java**, C#. 
 
