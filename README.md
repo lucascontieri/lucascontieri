@@ -1,127 +1,93 @@
-<!-- Animação do cabeçalho -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000080&reversal=true"/>
 </p>
 
-<!-- Texto animado com GIF ao lado esquerdo -->
 <div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center" width="100%">
-      <img src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="200px">
-    </td>
-  </tr>
-</table>
-<br>
-    <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=10&color=ffffff&vCenter=true&random=false&width=500&lines=%E2%8A%B9+Welcome+to+my+Profile+!" alt="Typing SVG">
-    </td>
-  </tr>
-</table>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=10&color=ffffff&vCenter=true&random=false&width=500&lines=%E2%8A%B9+Welcome+to+my+Profile+!" alt="Typing SVG">
 </div>
-<br><br>
-<!-- Tabela com divisão de informacoes profissionais e academicas com um GIF -->
+
+<br>
+
 <table>
 <tr>
    <td> 
    
-## 👋 Hello, I'm Contieri!
-📖 I have a degree in Systems Development Integrated to High School from Etec Eudécio Luiz Vicente.
+## 👋 Olá, eu sou o Lucas Contieri!
 
-📓 I'm currently studying for my 5th semester in Systems Analysis and Development at FATEC Guarulhos, where the following technologies are widely covered: **Java**, **C#**, **SQL**, **Mobile Applications**, **MySQL**, **XAMPP**, **Linux Ubuntu**, **Agile Methodologies (Scrum)**, **Kanban**.
+Sou um **Desenvolvedor Full Stack** em formação, com foco especializado em **Desenvolvimento Mobile (Dart & Flutter)**. 
 
-📌 I'm currently expanding my Front-End knowledge of **HTML**, **CSS** and **JavaScript**. As for the Back-End, I'm dedicating myself to the languages **PHP**, **Java**, C#. 
+🚀 **No momento:** Atuo como **Estagiário de Análise de Dados na Rede D'Or**, desenvolvendo automações (RPA), dashboards em Power BI e soluções de dados para o ambiente corporativo.
+
+🎓 **Formação:** Cursando o **6º semestre** de Análise e Desenvolvimento de Sistemas na **FATEC Guarulhos**.
+
+📌 **Foco TCC:** Desenvolvendo uma aplicação mobile moderna, performática e multiplataforma com Flutter para a conclusão do curso.
 
    </td> 
    
    <td>
-   <p><img width = "100%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+   <p align="right">
+     <img width="300px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-animation" />
+   </p>
    </td>
 </tr>
 </table>
-<br>
-
-
-
-<!-- 🧠 Linguagens de Programação -->
-<div align="center">
-  <h3>🧠 Programming Languages
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
-  </h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQL" width="50px">
-  </div>
-</div>
-
-<div align="center">
-  <h3>🧰 IDEs and Tools
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
-  </h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio 2022" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelliJ" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" title="Eclipse" width="50px">
-    <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" title="NetBeans" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="50px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" title="VirtualBox" width="50px">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL Workbench" width="50px">
-  </div>
-</div>
-<br><br><br><br>
-
-
-<div align="center" style="
-    display: flex;
-    flex-direction: column;
-    gap: 20px; /* Espaço vertical entre as linhas de cards */
-    max-width: 840px; /* Largura máxima ajustada para 2 cards de ~400px + 20px de gap */
-    margin: 0 auto; /* Centraliza o bloco na página */
-">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: calc(50% - 10px); height: 180px; object-fit: cover;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascontieri&theme=tokyonight" alt="GitHub Streak" style="width: calc(50% - 10px); height: 180px; object-fit: cover;">
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascontieri&theme=tokyonight" alt="Top Langs" style="width: calc(50% - 10px); height: 180px; object-fit: cover;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Additional GitHub Stats" style="width: calc(50% - 10px); height: 180px; object-fit: cover;">
-  </div>
-</div>
-
 
 <br>
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| **TCC (Conclusão)** | App Mobile multiplataforma focado em performance. | Dart & Flutter |
+| **Mais Saúde** | Aplicativo gamificado para hábitos saudáveis. | Java, Firebase |
+| **Gestão de Estoque** | Sistema desktop completo de gestão empresarial. | C#, WinForms, MySQL |
+| **Automações RPA** | Desenvolvimento de robôs e Dashboards corporativos. | Python, Power BI |
+
 <br>
-<div align="center">
-   <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucascontieri}/count.svg" /></p> 
-   <br><br>
 
 <div align="center">
-<h3> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h3>
-<a href = 'https://www.linkedin.com/in/lucas-silva-contieri-436718226/'> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;&nbsp;&nbsp;
-<a href = 'https://github.com/lucascontieri/lucascontieri/'> <img width = '30' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/lucas_contieri/" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"alt="_._.adam._" width="30" /></a>&nbsp;&nbsp;&nbsp;
+  <h3>🧠 Stack Técnica</h3>
+  
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="PowerBI">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
+<br><br>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
 
-
-    
-</div>
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+<div align="center">
+  <h3>📫 Vamos nos conectar?</h3>
+  <a href="https://www.linkedin.com/in/lucas-silva-contieri-436718226/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
 </div>
 
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=VISITANTES" alt="Contador de Visitantes" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
