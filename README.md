@@ -12,7 +12,7 @@
   src="https://raw.githubusercontent.com/gist/lucascontieri/37f1f65eed73bc2cd9d00bb9e7dc0683/raw/ce17d82c89e7b1f9524e8bd1a12af142c8728a6a/githubcard-lucascontieri.svg"/>
 </div> <br><br><br><br>
 
-<div align="left" width="400em">
+<div align="left" width="400em"> <br>
   
 - 💻 FullStack Developer
 
