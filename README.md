@@ -42,7 +42,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=VISITANTES" alt="Contador de Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=Visitors" alt="Contador de Visitantes" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
