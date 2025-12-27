@@ -8,18 +8,22 @@
 </div><br>
 
 <div>
-  <img align="right" height="600em"
+  <img align="right" height="425em"
   src="https://raw.githubusercontent.com/gist/lucascontieri/37f1f65eed73bc2cd9d00bb9e7dc0683/raw/ce17d82c89e7b1f9524e8bd1a12af142c8728a6a/githubcard-lucascontieri.svg"/>
-</div>
+</div> <br><br><br><br>
 
-<br><br><br><br><br><br><br><br>
-- 🔥 FullStack Developer
+- 💻 FullStack Developer
 
-- 🔭 I’m currently working Intern at Rede D'Or
+- 🔭 Working Intern at Rede D'Or | RPA with Power Automate | Power BI | Power Apps
+
+- ✍️ I am currently in my 6° semester at Fatec Guarulhos, studying Systems Analysis and Development.
+
+- 📖 Learning about Dart and Flutter
 
 - 👨‍💻 My portfolio [click here](https://lucascontieri.github.io/portifolio-pessoal/)
 
-- I am currently in my 6° semester at Fatec Guarulhos, studying Systems Analysis and Development.
+<br><br><br><br>
+-
 
 <div align="center">
   <picture>
