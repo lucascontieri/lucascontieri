@@ -19,6 +19,8 @@
 
 - 👨‍💻 My portfolio [click here](https://lucascontieri.github.io/portifolio-pessoal/)
 
+- I am currently in my 6° semester at Fatec Guarulhos, studying Systems Analysis and Development.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake-dark.svg">
