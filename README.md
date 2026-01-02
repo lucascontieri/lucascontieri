@@ -24,7 +24,6 @@
 
 - 📖 Learning about Dart and Flutter
 
-- 👨‍💻 My portfolio [click here](https://lucascontieri.github.io/portifolio-pessoal/)
 
 </div>
 
