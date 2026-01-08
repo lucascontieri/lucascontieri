@@ -16,7 +16,7 @@
 
 <div align="left" width="400em">
   
-- 💻 FullStack Developer
+- 💻 FullStack Developer Jr | Java
 
 - 🔭 Working Intern at Rede D'Or | RPA with Power Automate | Power BI | Power Apps
 
