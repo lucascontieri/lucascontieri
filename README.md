@@ -23,13 +23,13 @@
 - ✍️ I am currently in my 6° semester at Fatec Guarulhos, studying Systems Analysis and Development.
 
 - 📖 Learning about Dart and Flutter
-
-
 </div>
 
 <br><br><br><br>
 
 ---
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&theme=rad) ## 🛠 Tech Stack -->
 
 <div align="center">
   <picture>
