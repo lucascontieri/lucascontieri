@@ -8,9 +8,10 @@
 </div><br>
 
 <div>
-  <img align="right" height="450em" width="450em"
+  <img align="right" height="430em" width="500em"
   src="https://raw.githubusercontent.com/gist/lucascontieri/37f1f65eed73bc2cd9d00bb9e7dc0683/raw/ce17d82c89e7b1f9524e8bd1a12af142c8728a6a/githubcard-lucascontieri.svg"/>
 </div> <br><br><br><br>
+
 
 <div style="clear: both;"></div>
 
@@ -23,13 +24,161 @@
 - ✍️ I am currently in my 6° semester at Fatec Guarulhos, studying Systems Analysis and Development.
 
 - 📖 Learning about Dart and Flutter
+
+- [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/)
+
+  
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
----
+### Languages and Technologies
+<br>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucascontieri&show_icons=true&theme=rad) ## 🛠 Tech Stack -->
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SpringBoot"
+    title="SpringBoot" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dart"
+    title="Dart" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Futter"
+    title="Flutter" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode"
+    title="VSCode" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman"
+    title="Postman" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### Statistics
+
+<div>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="300"
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascontieri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left"
+    alt="Top Languages"
+    height="300"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascontieri&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight"
+  />
+</div>
+
 
 <div align="center">
   <picture>
