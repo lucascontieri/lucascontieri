@@ -30,7 +30,7 @@
 
 <br><br><br><br>
 
-### Tech Stack Highlights
+### 🛠️ Tech Stack Highlights
 <br>
 
 <img 
@@ -157,7 +157,7 @@
 <br/>
 <br/>
 
-### Statistics
+### 📈 Development Statistics
 
 <div>
   <img 
