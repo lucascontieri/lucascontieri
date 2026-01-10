@@ -39,7 +39,7 @@
     align="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -47,7 +47,7 @@
     align="left" 
     alt="SpringBoot"
     title="SpringBoot" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
@@ -55,7 +55,7 @@
     align="left" 
     alt="Dart"
     title="Dart" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
 />
@@ -63,7 +63,7 @@
     align="left" 
     alt="Futter"
     title="Flutter" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
@@ -71,7 +71,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -79,7 +79,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -87,7 +87,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -95,7 +95,7 @@
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -103,7 +103,7 @@
     align="left" 
     alt="React"
     title="React" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -111,7 +111,7 @@
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -119,7 +119,7 @@
     align="left" 
     alt="Tailwind CSS" 
     title="Tailwind CSS"
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -127,7 +127,7 @@
     align="left" 
     alt="MySQL"
     title="MySQL" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -135,7 +135,7 @@
     align="left" 
     alt="VSCode"
     title="VSCode" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
@@ -143,7 +143,7 @@
     align="left" 
     alt="Postman"
     title="Postman" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -151,7 +151,7 @@
     align="left" 
     alt="Git"
     title="Git" 
-    width="40px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -165,7 +165,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="300"
+    height="200"
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucascontieri&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -173,7 +173,7 @@
   <img 
     align="left"
     alt="Top Languages"
-    height="300"
+    height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascontieri&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight"
   />
