@@ -30,7 +30,7 @@
 
 <br><br><br><br>
 
-### Languages and Technologies
+### Tech Stack Highlights
 <br>
 
 <img 
