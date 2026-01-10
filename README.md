@@ -15,7 +15,7 @@
 
 <div style="clear: both;"></div>
 
-<div align="left" width="400em">
+<div align="left" width="200em"> 
   
 - 💻 FullStack Developer Jr
 
@@ -25,9 +25,7 @@
 
 - 📖 Learning about Dart and Flutter
 
-- [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/)
-
-  
+- [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/) 
 </div>
 
 <br><br><br><br>
@@ -178,7 +176,11 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascontieri&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight"
   />
 </div>
+<br><br><br><br><br><br><br><br><br><br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=Visitors" alt="Contador de Visitantes" />
+</p>
 
 <div align="center">
   <picture>
@@ -189,8 +191,6 @@
 </div>
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=Visitors" alt="Contador de Visitantes" />
-</p>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
