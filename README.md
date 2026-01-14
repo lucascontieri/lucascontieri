@@ -17,13 +17,13 @@
 
 <div align="left" width="100em"> 
   
-- 💻 FullStack Developer Jr
+- 👨‍💻 FullStack Developer Jr
 
 - 🔭 Working Intern at Rede D'Or | RPA with Power Automate | Power BI | Power Apps
 
 - ✍️ I am currently in my 6° semester at Fatec Guarulhos, studying Systems Analysis and Development.
 
-- 📖 Learning about Dart and Flutter
+- 📖 Learning about React and Next.js
 
 - [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/) 
 </div>
@@ -32,7 +32,7 @@
 ##
 <br>
 
-### 🖱️ Tech Stack Highlights
+### 💻 Tech Stack Highlights
 <br>
 
 <img 
@@ -141,7 +141,7 @@
 />
 <br><br><br>
 
-### 📝 Technology Stack I'm Studying
+### 🖱️ Technology Stack I'm Studying
 <br>
 
 <img 
@@ -187,7 +187,7 @@
 
 <br><br><br>
 
-### 😼 Development Statistics
+### ⌨️ Development Statistics
 
 <div>
   <br>
