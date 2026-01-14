@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&pause=10&color=ffffff&vCenter=true&random=false&width=500&lines=%E2%8A%B9+Welcome+to+my+Profile+!" alt="Typing SVG">
 </div>
 
-##
 <br><br>
 <div>
   <img align="right" height="390em" width="400em"
@@ -29,8 +28,10 @@
 - [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/) 
 </div>
 
-<br><br><br>
+<br><br><br><br>
 ##
+<br>
+
 ### 🛠️ Tech Stack Highlights
 <br>
 
@@ -158,11 +159,12 @@
 <br/>
 <br/>
 
-##
 
+<br><br>
 ### 📈 Development Statistics
 
 <div>
+  
   <img 
     align="left" 
     alt="GitHub Stats" 
