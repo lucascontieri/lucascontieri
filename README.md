@@ -180,10 +180,6 @@
 </div>
 <br><br><br><br><br><br><br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=Visitors" alt="Contador de Visitantes" />
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascontieri/lucascontieri/output/github-contribution-grid-snake-dark.svg">
@@ -193,6 +189,8 @@
 </div>
 <br>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=Visitors" alt="Contador de Visitantes" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
