@@ -165,7 +165,7 @@
 ### 📈 Development Statistics
 
 <div>
-  
+  <br>
   <img 
     align="left" 
     alt="GitHub Stats" 
