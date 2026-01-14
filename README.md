@@ -156,11 +156,22 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
+<br><br>
 
+### 📝 Technology Stack I'm Studying
 
 <br>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+
+
+<br><br>
 
 ### 📈 Development Statistics
 
