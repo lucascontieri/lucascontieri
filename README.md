@@ -185,7 +185,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 
-<br><br><br>
+<br><br>
 
 ### ⌨️ Development Statistics
 
