@@ -8,15 +8,14 @@
 </div><br>
 
 <div>
-  <img align="right" height="430em" width="500em"
+  <img align="right" height="430em" width="400em"
   src="https://raw.githubusercontent.com/gist/lucascontieri/37f1f65eed73bc2cd9d00bb9e7dc0683/raw/ce17d82c89e7b1f9524e8bd1a12af142c8728a6a/githubcard-lucascontieri.svg"/>
 </div> <br><br><br><br>
 
 
 <div style="clear: both;"></div>
 
-<div align="left" width="200em"> 
-  <br>
+<div align="left" width="100em"> 
   
 - 💻 FullStack Developer Jr
 
