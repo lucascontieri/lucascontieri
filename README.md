@@ -5,13 +5,14 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&pause=10&color=ffffff&vCenter=true&random=false&width=500&lines=%E2%8A%B9+Welcome+to+my+Profile+!" alt="Typing SVG">
-</div><br>
+</div>
 
+##
+<br><br>
 <div>
-  <img align="left" height="375em" width="350em"
+  <img align="left" height="400em" width="550em"
   src="https://raw.githubusercontent.com/gist/lucascontieri/37f1f65eed73bc2cd9d00bb9e7dc0683/raw/ce17d82c89e7b1f9524e8bd1a12af142c8728a6a/githubcard-lucascontieri.svg"/>
 </div> <br><br><br><br>
-
 
 <div style="clear: both;"></div>
 
