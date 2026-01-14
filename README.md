@@ -179,7 +179,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascontieri&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight"
   />
 </div>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucascontieri&color=000080&style=flat-square&label=Visitors" alt="Contador de Visitantes" />
