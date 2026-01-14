@@ -160,7 +160,8 @@
 <br/>
 
 
-<br><br>
+<br>
+
 ### 📈 Development Statistics
 
 <div>
