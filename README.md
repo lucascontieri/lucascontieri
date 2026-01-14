@@ -181,7 +181,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucascontieri&layout=compact&custom_title=Tecnologias&langs_count=9&theme=tokyonight"
   />
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 <div align="center">
   <picture>
