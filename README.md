@@ -16,7 +16,7 @@
 <div style="clear: both;"></div>
 
 <div align="left" width="200em"> 
-  
+  <br>
 - 💻 FullStack Developer Jr
 
 - 🔭 Working Intern at Rede D'Or | RPA with Power Automate | Power BI | Power Apps
@@ -28,8 +28,8 @@
 - [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/) 
 </div>
 
-<br><br><br><br>
-
+<br><br><br>
+##
 ### 🛠️ Tech Stack Highlights
 <br>
 
@@ -156,6 +156,8 @@
 
 <br/>
 <br/>
+
+##
 
 ### 📈 Development Statistics
 
