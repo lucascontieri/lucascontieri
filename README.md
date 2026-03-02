@@ -17,7 +17,7 @@
 
 <div align="left" width="100em"> 
   
-- 👨‍💻 FullStack Developer Jr
+- 👨‍💻 FullStack Developer
 
 - 🔭 Working Intern at [Rede D'Or](https://www.rededorsaoluiz.com.br/) | RPAs with Power Automate | Power BI | Power Apps
 
