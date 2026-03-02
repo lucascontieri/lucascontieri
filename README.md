@@ -23,7 +23,7 @@
 
 - ✍️ I am currently in my 6° semester at Fatec Guarulhos, studying Systems Analysis and Development.
 
-- 📖 Learning about React and Next.js
+- 📖 Learning about AWS and Docker
 
 - [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/) 
 </div>
