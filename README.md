@@ -61,7 +61,7 @@
 />
 <img 
     align="left" 
-    alt="Futter"
+    alt="Flutter"
     title="Flutter" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -98,6 +98,22 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -194,27 +210,11 @@
 />
 <img 
     align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="Nodejs"
     title="Nodejs" 
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
 />
 <br><br><br>
 
