@@ -19,8 +19,6 @@
   
 - 👨‍💻 FullStack Developer
 
-- 🔭 Working Intern at [Rede D'Or](https://www.rededorsaoluiz.com.br/) | RPAs with Power Automate | Power BI | Power Apps
-
 - ✍️ I am currently in my 6° semester at [Fatec Guarulhos](https://fatecguarulhos.cps.sp.gov.br/), studying Systems Analysis and Development.
 
 - 📖 Learning about AWS and Docker
