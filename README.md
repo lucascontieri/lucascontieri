@@ -23,7 +23,7 @@
 
 - 📖 Learning about AWS and Docker
 
-- [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-silva-contieri-436718226/) 
+- [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-contieri/) 
 </div>
 
 <br><br><br><br>
