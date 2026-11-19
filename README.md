@@ -21,7 +21,7 @@
 
 - ✍️ I am currently in my 6° semester at [Fatec Guarulhos](https://fatecguarulhos.cps.sp.gov.br/), studying Systems Analysis and Development.
 
-- 📖 Learning about AWS and Docker
+- 📖 Learning about JS
 
 - [Contact me on LinkedIn](https://www.linkedin.com/in/lucas-contieri/) 
 </div>
